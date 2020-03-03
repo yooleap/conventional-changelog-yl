@@ -1,0 +1,21 @@
+# temp file for git conflict merging
+*.log
+*.log*
+*.zip
+*.vi
+*~
+*.sass-cache
+*.local
+package-lock.json
+
+# OS or Editor folders
+.DS_Store
+thumbs.db
+
+# Folders to ignore
+.CVS
+.idea
+.vscode
+.history
+node_modules/
+dist/
