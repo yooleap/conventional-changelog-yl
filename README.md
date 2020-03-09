@@ -44,7 +44,7 @@ npm install standard-version conventional-changelog-yl --save-dev
 
 Type: `string` Default: `true`
 
-默认`bugsUrl: 'http://team.yongliweb.cn/zentao/bug-view-'`
+默认`bugsUrl: 'http://zentao.yooleap.net/zentao/bug-view-'`
 
 如果不填 `bugsUrl` 则会根据 **package.json** 中的 `repository.url` 来作为 issues URL
 
