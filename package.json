@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog-yl",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "This preset extends the angular preset",
   "main": "index.js",
   "scripts": {
